@@ -1,6 +1,7 @@
-PhpSpreadsheet
-DRESCRIPTION # ENGLISH
-Practice with PhpSpreadsheet
+# PhpSpreadsheet
+
+# DESCRIPTION # ENGLISH
+Actitivities with PhpSpreadsheet
 
 Statement: PHP_Spreadsheet.docx (it is in catalan)
 
@@ -8,7 +9,7 @@ BD: empresa.sql (create database empresa before import sql) Password that I use 
 
 Bookshop: https://github.com/PHPOffice/PhpSpreadsheet
 
-DRESCRIPTION # SPANISH / ESPAÑOL
+# DESCRIPCIÓN # SPANISH / ESPAÑOL
 Prácticas con la librería PhpSpreadsheet
 
 Enunciado: PHP_Spreadsheet.docx (está en catalán :s)
